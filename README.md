@@ -1,6 +1,6 @@
 # Responsive Page
 
-> One paragraph statement about the project.
+> This a webpage responsive to all devices. It was created with just basic HTML and CSS, no bootsrap involved.
 
 ![screenshot](./screenshot.png)
 
